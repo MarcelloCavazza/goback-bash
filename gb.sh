@@ -1,4 +1,4 @@
-export LAST_WD_FILE="$HOME/.variables"
+LAST_WD_FILE="$HOME/.variables"
 
 # Overriding 'cd' method and storing the current directory before changing
 function cd() {
